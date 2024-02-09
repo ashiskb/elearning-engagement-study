@@ -1,0 +1,109 @@
+              precision    recall  f1-score   support
+
+ 0: Very Low       0.00      0.00      0.00        42
+      1: Low       0.00      0.00      0.00        42
+     2: High       0.24      0.62      0.34        42
+3: Very High       0.29      0.40      0.34        42
+
+    accuracy                           0.26       168
+   macro avg       0.13      0.26      0.17       168
+weighted avg       0.13      0.26      0.17       168
+
+              precision    recall  f1-score   support
+
+ 0: Very Low       0.00      0.00      0.00        42
+      1: Low       0.00      0.00      0.00        42
+     2: High       0.23      0.64      0.34        42
+3: Very High       0.24      0.29      0.26        42
+
+    accuracy                           0.23       168
+   macro avg       0.12      0.23      0.15       168
+weighted avg       0.12      0.23      0.15       168
+
+              precision    recall  f1-score   support
+
+ 0: Very Low       0.00      0.00      0.00        42
+      1: Low       0.00      0.00      0.00        42
+     2: High       0.21      0.57      0.31        42
+3: Very High       0.26      0.33      0.29        42
+
+    accuracy                           0.23       168
+   macro avg       0.12      0.23      0.15       168
+weighted avg       0.12      0.23      0.15       168
+
+              precision    recall  f1-score   support
+
+ 0: Very Low       0.00      0.00      0.00        42
+      1: Low       0.00      0.00      0.00        42
+     2: High       0.23      0.60      0.33        42
+3: Very High       0.27      0.38      0.32        42
+
+    accuracy                           0.24       168
+   macro avg       0.13      0.24      0.16       168
+weighted avg       0.13      0.24      0.16       168
+
+              precision    recall  f1-score   support
+
+ 0: Very Low       0.00      0.00      0.00        42
+      1: Low       0.00      0.00      0.00        42
+     2: High       0.23      0.64      0.34        42
+3: Very High       0.25      0.31      0.28        42
+
+    accuracy                           0.24       168
+   macro avg       0.12      0.24      0.15       168
+weighted avg       0.12      0.24      0.15       168
+
+              precision    recall  f1-score   support
+
+ 0: Very Low       0.00      0.00      0.00        42
+      1: Low       0.00      0.00      0.00        42
+     2: High       0.25      0.67      0.36        42
+3: Very High       0.36      0.48      0.41        42
+
+    accuracy                           0.29       168
+   macro avg       0.15      0.29      0.19       168
+weighted avg       0.15      0.29      0.19       168
+
+              precision    recall  f1-score   support
+
+ 0: Very Low       0.00      0.00      0.00        42
+      1: Low       0.00      0.00      0.00        42
+     2: High       0.28      0.76      0.41        42
+3: Very High       0.37      0.45      0.40        42
+
+    accuracy                           0.30       168
+   macro avg       0.16      0.30      0.20       168
+weighted avg       0.16      0.30      0.20       168
+
+              precision    recall  f1-score   support
+
+ 0: Very Low       0.00      0.00      0.00        42
+      1: Low       0.00      0.00      0.00        42
+     2: High       0.26      0.71      0.38        42
+3: Very High       0.30      0.38      0.34        42
+
+    accuracy                           0.27       168
+   macro avg       0.14      0.27      0.18       168
+weighted avg       0.14      0.27      0.18       168
+
+              precision    recall  f1-score   support
+
+ 0: Very Low       0.00      0.00      0.00        42
+      1: Low       0.00      0.00      0.00        42
+     2: High       0.25      0.71      0.37        42
+3: Very High       0.24      0.26      0.25        42
+
+    accuracy                           0.24       168
+   macro avg       0.12      0.24      0.15       168
+weighted avg       0.12      0.24      0.15       168
+
+              precision    recall  f1-score   support
+
+ 0: Very Low       0.00      0.00      0.00        42
+      1: Low       0.00      0.00      0.00        42
+     2: High       0.21      0.55      0.30        42
+3: Very High       0.24      0.33      0.28        42
+
+    accuracy                           0.22       168
+   macro avg       0.11      0.22      0.15       168
+weighted avg       0.11      0.22      0.15       168

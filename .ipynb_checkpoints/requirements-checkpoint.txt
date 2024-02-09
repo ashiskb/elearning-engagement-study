@@ -1,0 +1,15 @@
+tensorflow
+keras
+h5py
+opencv-python
+scikit-learn
+fairlearn
+huggingface-hub
+Keras-Preprocessing
+numpy
+pandas
+Pillow
+seaborn
+tqdm
+xlrd
+lightgbm
